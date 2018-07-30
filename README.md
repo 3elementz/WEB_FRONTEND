@@ -1,3 +1,3 @@
 # WEB_FRONTEND
-## base : react </br>
-## tool : webpack
+## library : react </br>
+## build : webpack v4
